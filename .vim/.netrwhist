@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/data/users/ashishc/fbsource/fbcode/admarket/admetrics/stylus/testFramework'
+let g:netrw_dirhist_2='/data/users/ashishc/fbsource/fbcode/admarket/admetrics/stylus/tests'
+let g:netrw_dirhist_3='/home/ashishc'
